@@ -1,0 +1,534 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "Point": {
+            "pos": "41.117058 44.986098"
+          },
+          "boundedBy": {
+            "Envelope": {
+              "lowerCorner": "41.112953 44.983185",
+              "upperCorner": "41.121164 44.989012"
+            }
+          },
+          "request": "41.117058,44.986098",
+          "results": "10",
+          "found": "10"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "exact",
+                "text": "Россия, Краснодарский край, Армавир, улица Кропоткина, 215",
+                "kind": "house",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Краснодарский край, Армавир, улица Кропоткина, 215",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Краснодарский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Армавир"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Армавир"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "улица Кропоткина"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "215"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Краснодарский край, Армавир, улица Кропоткина, 215",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Краснодарский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Армавир",
+                        "Locality": {
+                          "LocalityName": "Армавир",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "улица Кропоткина",
+                            "Premise": {
+                              "PremiseNumber": "215"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "улица Кропоткина, 215",
+            "description": "Армавир, Краснодарский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "41.112953 44.983185",
+                "upperCorner": "41.121164 44.989012"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=IgoN3nckQhXE8TNC",
+            "Point": {
+              "pos": "41.117058 44.986098"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "street",
+                "text": "Россия, Краснодарский край, Армавир, улица Кропоткина",
+                "kind": "street",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Краснодарский край, Армавир, улица Кропоткина",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Краснодарский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Армавир"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Армавир"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "улица Кропоткина"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Краснодарский край, Армавир, улица Кропоткина",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Краснодарский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Армавир",
+                        "Locality": {
+                          "LocalityName": "Армавир",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "улица Кропоткина"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "улица Кропоткина",
+            "description": "Армавир, Краснодарский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "41.089157 44.965063",
+                "upperCorner": "41.156566 45.002416"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=CgoxNTAyODQ3NDA3EmLQoNC-0YHRgdC40Y8sINCa0YDQsNGB0L3QvtC00LDRgNGB0LrQuNC5INC60YDQsNC5LCDQkNGA0LzQsNCy0LjRgCwg0YPQu9C40YbQsCDQmtGA0L7Qv9C-0YLQutC40L3QsCIKDWN9JEIVj-4zQg,,",
+            "Point": {
+              "pos": "41.122448 44.982968"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Краснодарский край, Армавир",
+                "kind": "locality",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Краснодарский край, Армавир",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Краснодарский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Армавир"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Армавир"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Краснодарский край, Армавир",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Краснодарский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Армавир",
+                        "Locality": {
+                          "LocalityName": "Армавир"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Армавир",
+            "description": "Краснодарский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "41.027326 44.94966",
+                "upperCorner": "41.193891 45.065004"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzE2MTgzMRJB0KDQvtGB0YHQuNGPLCDQmtGA0LDRgdC90L7QtNCw0YDRgdC60LjQuSDQutGA0LDQuSwg0JDRgNC80LDQstC40YAiCg3ChCRCFZn9M0I,",
+            "Point": {
+              "pos": "41.129644 44.997655"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Краснодарский край, городской округ Армавир",
+                "kind": "area",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Краснодарский край, городской округ Армавир",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Краснодарский край"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Армавир"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Краснодарский край, городской округ Армавир",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Краснодарский край",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Армавир"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "name": "городской округ Армавир",
+            "description": "Краснодарский край, Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "40.891473 44.775865",
+                "upperCorner": "41.266942 45.065004"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzAwMTY4MRJf0KDQvtGB0YHQuNGPLCDQmtGA0LDRgdC90L7QtNCw0YDRgdC60LjQuSDQutGA0LDQuSwg0LPQvtGA0L7QtNGB0LrQvtC5INC-0LrRgNGD0LMg0JDRgNC80LDQstC40YAiCg3EcCRCFWjmM0I,",
+            "Point": {
+              "pos": "41.110123 44.975005"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Краснодарский край",
+                "kind": "province",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Краснодарский край",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Краснодарский край"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Краснодарский край",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Краснодарский край"
+                    }
+                  }
+                }
+              }
+            },
+            "name": "Краснодарский край",
+            "description": "Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "36.521179 43.250265",
+                "upperCorner": "41.743867 47.030826"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzAwMDAzNxIx0KDQvtGB0YHQuNGPLCDQmtGA0LDRgdC90L7QtNCw0YDRgdC60LjQuSDQutGA0LDQuSIKDRNxHkIV_C02Qg,,",
+            "Point": {
+              "pos": "39.610422 45.54491"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия, Южный федеральный округ",
+                "kind": "province",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия, Южный федеральный округ",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Южный федеральный округ"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия, Южный федеральный округ",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия"
+                  }
+                }
+              }
+            },
+            "name": "Южный федеральный округ",
+            "description": "Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "32.299905 43.250265",
+                "upperCorner": "49.811142 51.247784"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzAwMDAxMBI60KDQvtGB0YHQuNGPLCDQrtC20L3Ri9C5INGE0LXQtNC10YDQsNC70YzQvdGL0Lkg0L7QutGA0YPQsyIKDSaqLEIVgX1CQg,,",
+            "Point": {
+              "pos": "43.16616 48.622564"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Понтийско-Каспийская степь",
+                "kind": "other",
+                "Address": {
+                  "formatted": "Понтийско-Каспийская степь",
+                  "Components": [
+                    {
+                      "kind": "other",
+                      "name": "Понтийско-Каспийская степь"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Address": "Понтийско-Каспийская степь"
+                }
+              }
+            },
+            "name": "Понтийско-Каспийская степь",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "26.859016 42.412851",
+                "upperCorner": "56.367443 55.090341"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo0NzAxNzc1MTY2EhVQb250aWMtQ2FzcGlhbiBzdGVwcGUiCg1avytCFUGjRUI,",
+            "Point": {
+              "pos": "42.936865 49.409428"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Понтийско-Каспийская степь",
+                "kind": "other",
+                "Address": {
+                  "formatted": "Понтийско-Каспийская степь",
+                  "Components": [
+                    {
+                      "kind": "other",
+                      "name": "Понтийско-Каспийская степь"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Address": "Понтийско-Каспийская степь"
+                }
+              }
+            },
+            "name": "Понтийско-Каспийская степь",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "26.859016 42.412851",
+                "upperCorner": "56.367443 55.090341"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo0NzAxNzc1MTY2EhVQb250aWMtQ2FzcGlhbiBzdGVwcGUiCg1avytCFUGjRUI,",
+            "Point": {
+              "pos": "42.936865 49.409428"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Понтийско-Каспийская степь",
+                "kind": "other",
+                "Address": {
+                  "formatted": "Понтийско-Каспийская степь",
+                  "Components": [
+                    {
+                      "kind": "other",
+                      "name": "Понтийско-Каспийская степь"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Address": "Понтийско-Каспийская степь"
+                }
+              }
+            },
+            "name": "Понтийско-Каспийская степь",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "26.859016 42.412851",
+                "upperCorner": "56.367443 55.090341"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgo0NzAxNzc1MTY2EhVQb250aWMtQ2FzcGlhbiBzdGVwcGUiCg1avytCFUGjRUI,",
+            "Point": {
+              "pos": "42.936865 49.409428"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "precision": "other",
+                "text": "Россия",
+                "kind": "country",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Россия",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Россия",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия"
+                  }
+                }
+              }
+            },
+            "name": "Россия",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "19.484764 41.185996",
+                "upperCorner": "191.128012 81.886117"
+              }
+            },
+            "uri": "ymapsbm1://geo?data=Cgg1MzAwMDAwMRIM0KDQvtGB0YHQuNGPIgoNxQLHQhVsy3ZC",
+            "Point": {
+              "pos": "99.505405 61.698657"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
